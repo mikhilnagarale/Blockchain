@@ -1,0 +1,25 @@
+
+A blockchain is essentially a distributed database of records or public ledger of all transactions or
+digital events that have been executed and shared among participating parties.
+
+From Above definition we get below questions-
+-> It's about a security implementation on transaction side any bank transaction or POS (Point of Sales) purchase any entry to the database?
+Ans- Yes It is. Any kind of transaction could be converted or encrypted to blockchain transaction.
+
+->Distributed?
+
+If my transactions are distributed then I get below questions-
+
+-> Is it secure since it's distributed?
+-> How te security implemented?
+-> It's normal that a distributed system has replicatio  for recovery and quick read then how many replication we need to keep?
+-> If one of the node / system on which txn haas to replicate is crashed then how it'll recover within how much time?
+-> Distributing the records / txn needs time then how can this system gives seemless or quick or fast experience to customers?
+
+
+-> What is Bitcoin?
+“Bitcoin: A Peer-To-Peer Electronic Cash System"
+
+Bitcoin system is peer-to-peer version of the electronic cash that would allow online payments to be sent directly
+from one party to another without going through a financial institution. 
+
